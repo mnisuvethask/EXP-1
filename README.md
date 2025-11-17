@@ -68,6 +68,7 @@ a.   KVL:
  
 
 b.  KCL:
+
 $$i_{30}=I_{50\Omega}+I_{100\Omega}$$
 $$i_{30\Omega}=\frac{100-V}{30}$$
 $$I_{50\Omega}=\frac{V}{50}$$
